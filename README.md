@@ -1,4 +1,4 @@
-# My Nest.js API
+
 
 This is a Nest.js-based API that provides CRUD operations and authentication using PostgreSQL and JSON Web Tokens (JWTs).
 
@@ -14,7 +14,7 @@ This is a Nest.js-based API that provides CRUD operations and authentication usi
 - **Node.js**: Make sure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
 - **PostgreSQL**: Ensure you have a PostgreSQL database set up and running.
 
-## Installation
+
 
 1. **Create a .local.env file in the root directory and add your PostgreSQL configuration**:
 
